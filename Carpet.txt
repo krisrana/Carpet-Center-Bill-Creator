@@ -1,0 +1,140 @@
+OUTPUT 1
+
+customer's Name                 :Krishna S. Rana
+Customer's ID#                  :98765
+Length of Room                  :Feet   :45
+                                :Inches:15
+Width of Room                   :Feet   :34
+                                :Inches:6
+Cost/Square Foot                :20
+Percentage of Discount          :15
+
+
+
+/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+                Passaic County Community Carpet Center
+                          123 Main Street
+                        Paterson, NJ 07505
+/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+Customer Name:          Krishna S. Rana
+Customer Number:        98765
+
+Room Measurements:
+                        Length: 45'15"
+                        Width:  34'6"
+                        Area:   1595 Sq/Ft
+--------------------------------------------------------------------
+
+
+Charges:
+        Description             Cost/SQ Ft              Charges/Room
+        ___________             __________              ____________
+        Carpet                  $20.00                  $31900.00
+        Labor                   $1.65                   $2631.75
+                                                        ___________
+        Installed Price                                 $34531.75
+        Discount                15.00%                  $5179.76
+                                                        ___________
+        Subtotal                                        $29351.99
+        Tax                                             $2054.64
+                                                        ___________
+        Total                                           $31406.63
+---------------------------------------------------------------------
+        Thank You for Using PCCCC as Your Professional Carpet Store
+--------------------------------
+Process exited after 40.89 seconds with return value 0
+Press any key to continue . . .
+
+OUTPUT 2
+
+customer's Name                 :Adnan I. Atshan
+Customer's ID#                  :12345
+Length of Room                  :Feet   :30
+                                :Inches:5
+Width of Room                   :Feet   :18
+                                :Inches:11
+Cost/Square Foot                :18.23
+Percentage of Discount          :9
+
+
+
+/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+                Passaic County Community Carpet Center
+                          123 Main Street
+                        Paterson, NJ 07505
+/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+Customer Name:          Adnan I. Atshan
+Customer Number:        12345
+
+Room Measurements:
+                        Length: 30'5"
+                        Width:  18'11"
+                        Area:   575 Sq/Ft
+--------------------------------------------------------------------
+
+
+Charges:
+        Description             Cost/SQ Ft              Charges/Room
+        ___________             __________              ____________
+        Carpet                  $18.23                  $10482.25
+        Labor                   $1.65                   $948.75
+                                                        ___________
+        Installed Price                                 $11431.00
+        Discount                9.00%                   $1028.79
+                                                        ___________
+        Subtotal                                        $10402.21
+        Tax                                             $728.15
+                                                        ___________
+        Total                                           $11130.36
+---------------------------------------------------------------------
+        Thank You for Using PCCCC as Your Professional Carpet Store
+--------------------------------
+Process exited after 35 seconds with return value 0
+Press any key to continue . . .
+
+OUTPUT 3
+
+customer's Name                 :Larry White
+Customer's ID#                  :456789
+Length of Room                  :Feet   :38
+                                :Inches:5
+Width of Room                   :Feet   :29
+                                :Inches:16
+Cost/Square Foot                :22
+Percentage of Discount          :30
+
+
+
+/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+                Passaic County Community Carpet Center
+                          123 Main Street
+                        Paterson, NJ 07505
+/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+Customer Name:          Larry White
+Customer Number:        456789
+
+Room Measurements:
+                        Length: 38'5"
+                        Width:  29'16"
+                        Area:   1165 Sq/Ft
+--------------------------------------------------------------------
+
+
+Charges:
+        Description             Cost/SQ Ft              Charges/Room
+        ___________             __________              ____________
+        Carpet                  $22.00                  $25630.00
+        Labor                   $1.65                   $1922.25
+                                                        ___________
+        Installed Price                                 $27552.25
+        Discount                30.00%                  $8265.68
+                                                        ___________
+        Subtotal                                        $19286.57
+        Tax                                             $1350.06
+                                                        ___________
+        Total                                           $20636.63
+---------------------------------------------------------------------
+        Thank You for Using PCCCC as Your Professional Carpet Store
+--------------------------------
+Process exited after 53.93 seconds with return value 0
+Press any key to continue . . .
